@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/svtlife/Tastyfood/static/css/main.29680524.css",
-    "main.js": "/svtlife/Tastyfood/static/js/main.4f5be3c5.js",
-    "static/media/meals.jpg": "/svtlife/Tastyfood/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/svtlife/Tastyfood/index.html",
-    "main.29680524.css.map": "/svtlife/Tastyfood/static/css/main.29680524.css.map",
-    "main.4f5be3c5.js.map": "/svtlife/Tastyfood/static/js/main.4f5be3c5.js.map"
+    "main.css": "/Tastyfood/static/css/main.29680524.css",
+    "main.js": "/Tastyfood/static/js/main.e983ca49.js",
+    "static/media/meals.jpg": "/Tastyfood/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Tastyfood/index.html",
+    "main.29680524.css.map": "/Tastyfood/static/css/main.29680524.css.map",
+    "main.e983ca49.js.map": "/Tastyfood/static/js/main.e983ca49.js.map"
   },
   "entrypoints": [
     "static/css/main.29680524.css",
-    "static/js/main.4f5be3c5.js"
+    "static/js/main.e983ca49.js"
   ]
 }
