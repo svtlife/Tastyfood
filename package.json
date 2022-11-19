@@ -2,7 +2,7 @@
   "name": "tastyfood",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/svtlife/Tastyfood",
+  "homepage": "https://svtlife.github.io/Tastyfood/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
